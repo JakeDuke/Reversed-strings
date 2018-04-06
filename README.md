@@ -2,7 +2,7 @@
 
 Complete the solution so that it reverses the string value passed into it.
 
-Reverser: function
+reversed_strings: function
 * Args: 1
   * str: String
     * A string to be reversed.
