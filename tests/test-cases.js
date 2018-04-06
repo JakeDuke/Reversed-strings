@@ -1,10 +1,10 @@
 tests({
 
   'eert': function() {
-    eq("tree", solution("eert"));
+    eq("tree", reversed_strings("eert"));
   },
   'car': function() {
-    eq("rac", solution("car"));
+    eq("rac", reversed_strings("car"));
   }
 
 });
